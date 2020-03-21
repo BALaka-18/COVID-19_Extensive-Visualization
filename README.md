@@ -11,8 +11,6 @@ Extensive in-depth visualization on the Novel Corona Virus Dataset. In-depth vis
 
 5. Province/Country
 
-![image](https://user-images.githubusercontent.com/49288068/77234946-0f2df700-6bd8-11ea-83e0-c0481e5def61.png)
-
 View the notebooks on your local machine
 
 OR
